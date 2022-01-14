@@ -10,7 +10,7 @@ public class TaskS4t1 {
         System.out.println("Введите ваше имя :");
         Scanner inp = new Scanner(System.in);
         String name = inp.nextLine();
-        int age = 2021 - birthDate;
+        int age = 2022 - birthDate;
         System.out.println(name + ", вам" + " " + age + " лет");
 
 
