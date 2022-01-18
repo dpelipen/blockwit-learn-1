@@ -16,7 +16,7 @@ public class TaskS4t4 {
 
         }
 
-        System.out.println("Средняя температура за три дня " + degree +" градусов");
+        System.out.println("Средняя температура за три дня " + degree + " градусов");
 
     }
 }
